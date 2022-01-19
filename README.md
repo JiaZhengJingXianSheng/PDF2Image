@@ -48,7 +48,7 @@ for file in os.listdir(self.path):
 
 2. 点击开始执行，下方会显示执行进度，在执行结束后会出现成功的弹窗。
 
-   ![3.PNG](https://s2.loli.net/2021/12/25/k4WYLpeaRGQrwTz.png)
+![3.PNG](https://s2.loli.net/2021/12/25/k4WYLpeaRGQrwTz.png)
 
 ![4.PNG](https://s2.loli.net/2021/12/25/nFvVCeWobpqml49.png)
 
