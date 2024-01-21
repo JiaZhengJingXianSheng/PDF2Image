@@ -2,9 +2,6 @@
 # PDF转图片
 
 
-
-完整源码：https://github.com/JiaZhengJingXianSheng/PDF2Image
-
 #### x86-64 可执行文件：
 
 https://github.com/JiaZhengJingXianSheng/PDF2Image/releases
