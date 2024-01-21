@@ -7,8 +7,7 @@
 
 #### x86-64 可执行文件：
 
-> 链接：https://pan.baidu.com/s/1Qk_SCLNtnYLSxfu0ArF5-Q 
-> 提取码：at0c
+https://github.com/JiaZhengJingXianSheng/PDF2Image/releases
 
 
 
